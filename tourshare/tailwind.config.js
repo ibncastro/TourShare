@@ -4,7 +4,7 @@ module.exports = {
     theme: {
       extend: {
         backgroundImage:{
-          'header-bg': "url('/public/bg.jpg')"
+          'header-bg': "url('/src/bg.jpg')"
         }
       },
       minHeight: {
